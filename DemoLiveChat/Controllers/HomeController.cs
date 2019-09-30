@@ -26,10 +26,5 @@ namespace DemoLiveChat.Controllers
 
             return View();
         }
-
-        public ActionRult TEst()
-        {
-            return View();
-        }
     }
 }
