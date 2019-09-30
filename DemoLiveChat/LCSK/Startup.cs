@@ -13,6 +13,8 @@ namespace DemoLiveChat.LCSK
         {
             app.MapSignalR();
             var hehe = 1;
+            var nana = "some";
+            var its = 123;
         }
     }
 }
