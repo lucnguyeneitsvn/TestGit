@@ -12,6 +12,7 @@ namespace DemoLiveChat.LCSK
         public void Configuration(IAppBuilder app)
         {
             app.MapSignalR();
+            var hehe = 1;
         }
     }
 }
