@@ -12,6 +12,8 @@ namespace DemoLiveChat.LCSK
         public void Configuration(IAppBuilder app)
         {
             app.MapSignalR();
+            var nana = 12;
+            var j = "abc";
         }
     }
 }
