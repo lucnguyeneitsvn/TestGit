@@ -1,9 +1,6 @@
 **/bin
 **/obj
 **/logs
-**/Content/attachments
-**/Content/images/announcements
-**/PublishProfiles
 *.csproj.user
 .vs
 /packages
