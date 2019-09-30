@@ -14,6 +14,9 @@ namespace DemoLiveChat.LCSK
             app.MapSignalR();
             string sub = "1234";
             string.Format("a", "12");
+            var hehe = 1;
+            var nana = "some";
+            var its = 123;
         }
     }
 }
