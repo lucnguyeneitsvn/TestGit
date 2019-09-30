@@ -13,6 +13,7 @@ namespace DemoLiveChat.LCSK
         {
             app.MapSignalR();
             string sub = "1234";
+            string.Format("a", "12");
         }
     }
 }
