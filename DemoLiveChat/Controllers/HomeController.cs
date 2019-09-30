@@ -26,5 +26,11 @@ namespace DemoLiveChat.Controllers
 
             return View();
         }
+        public ActionResult Contac1t()
+        {
+            ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
     }
 }
