@@ -12,7 +12,7 @@ namespace DemoLiveChat.LCSK
         public void Configuration(IAppBuilder app)
         {
             app.MapSignalR();
-            var hehe = 1;
+            string sub = "1234";
         }
     }
 }
